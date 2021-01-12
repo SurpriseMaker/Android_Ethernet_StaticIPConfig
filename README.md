@@ -1,7 +1,6 @@
 # Android_Ethernet_StaticIPConfig
-Implemented ethernet staticIPConfiguration in Android.
+此方案在android中实现了网卡静态IP设置、有线网和USB无线网卡的切换。
 
-This commit relies on Android 9. Files need to be merged to Android 9
-source code to work.
+源码是增量代码，基于Android 9实现。你需要将源码合入到android系统版本中。0（n_n)0
 
-The commit implements Static IP configuration for RJ45 and USB host network.
+
